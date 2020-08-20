@@ -28,6 +28,6 @@
 ![메인화면](https://user-images.githubusercontent.com/66877863/90772616-c36ead80-e32f-11ea-85bc-d708fcbf7ded.PNG)
 
 
-<div>2.쓰기화면</div>
+<div>2.읽기화면</div>
 
-![쓰기](https://user-images.githubusercontent.com/66877863/90771000-9faa6800-e32d-11ea-8f68-803b01f0b75a.PNG)
+![기](https://user-images.githubusercontent.com/66877863/90771000-9faa6800-e32d-11ea-8f68-803b01f0b75a.PNG)
